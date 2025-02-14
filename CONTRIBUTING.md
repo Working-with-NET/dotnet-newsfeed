@@ -8,7 +8,7 @@ Before contributing, you must agree to our Contributor License Agreement (CLA). 
 
 How to Sign the CLA
 
-Read the CLA document [Contributor License Agreement (CLA)].
+Read the CLA document [Contributor License Agreement (CLA)](CLA.md).
 
 Sign the CLA by submitting a pull request with your name and GitHub username in the CLA file.
 
