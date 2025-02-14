@@ -38,7 +38,7 @@ All Contributions must adhere to the community’s [Code_of_Conduct.MD](CODE_OF_
 
 Review the project’s Contributing Guidelines.
 
-Sign this CLA by submitting a pull request adding your name to [CLA_SIGNED.md](CLA_SINGED.MD).
+Sign this CLA by submitting a pull request adding your name to [CLA Signed Contributors](CLA_SIGNED.md).
 
 Once signed, you may freely submit Contributions to the repository.
 
