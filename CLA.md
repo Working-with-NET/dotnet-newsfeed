@@ -32,7 +32,7 @@ You retain ownership of your Contribution but agree that Werken met .NET B.V. ha
 
 5. Code of Conduct
 
-All Contributions must adhere to the community’s Code of Conduct (link to be provided). Respectful collaboration is expected at all times.
+All Contributions must adhere to the community’s [Code_of_Conduct.MD]. Respectful collaboration is expected at all times.
 
 6. Submission Process
 
