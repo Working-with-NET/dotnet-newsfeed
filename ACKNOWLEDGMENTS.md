@@ -1,0 +1,1 @@
+The .NET Newsfeed feature of Werken met .NET is developed in collaboration with Ranshuijsen, who serves as the lead development partner. We appreciate their expertise in building and maintaining this project.
